@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <!-- add the following item to your menu.xml -->
+    <item
+        android:id="@+id/notify"
+        android:icon="@drawable/actionbar_group_icon"
+        app:showAsAction="always" />
+</menu>
